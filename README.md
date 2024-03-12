@@ -1,0 +1,2 @@
+# rocky
+testnet only
